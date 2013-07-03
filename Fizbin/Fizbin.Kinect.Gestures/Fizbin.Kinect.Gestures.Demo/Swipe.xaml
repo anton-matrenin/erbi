@@ -1,0 +1,9 @@
+﻿<Window x:Class="Fizbin.Kinect.Gestures.Demo.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window1" Height="495" Width="943">
+    <Grid>
+        <Label x:Name="lbl" Content="Label" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="63" Width="180" FontSize="24" RenderTransformOrigin="0.5,0.5"/>
+
+    </Grid>
+</Window>
